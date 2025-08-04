@@ -25,7 +25,7 @@ Front-end Developer | HTML, CSS, TailwindCSS, bootstrap, JavaScript, and React.
 ## Currently Learning
 
 - Improving Js and React expertise
-- - Enhancing backend skills with Node.js   
+- Enhancing backend skills with Node.js   
 
 ---
 
