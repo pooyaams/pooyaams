@@ -3,7 +3,7 @@
 I'm a Front-end Developer skilled in HTML, CSS, TailwindCSS, JavaScript, and React.  
 I also have basic knowledge of PHP, MySQL, and MongoDB, and I'm on my way to becoming a Full-Stack Developer.
 
----
+
 
 ## Skills
 
