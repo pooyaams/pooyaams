@@ -1,18 +1,43 @@
-## Hi there 👋
+# سلام! من پویا هستم 👋
 
-<div>سلام</div>
+من یک توسعه‌دهنده فرانت‌اند با تجربه در HTML, CSS, TailwindCSS, JavaScript و React هستم.  
+همچنین با PHP، MySQL و MongoDB آشنایی اولیه دارم و در مسیر تبدیل شدن به فول‌استک دولوپر هستم.
 
-<!--
-**pooyaams/pooyaams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## مهارت‌ها
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, TailwindCSS, JavaScript, React, Bootstrap  
+- **Backend (آشنایی اولیه):** PHP, MySQL, MongoDB, REST APIs  
+- **ابزارها:** Git, VS Code, Postman
+
+---
+
+## پروژه‌های برجسته
+
+- [پروژه اول](https://github.com/PouyaAms/project1) - توضیح کوتاه درباره پروژه  
+- [پروژه دوم](https://github.com/PouyaAms/project2) - توضیح کوتاه درباره پروژه
+
+---
+
+## در حال یادگیری
+
+- تقویت مهارت‌های بک‌اند با PHP و Node.js  
+- یادگیری معماری RESTful API  
+- بهبود مهارت‌های React
+
+---
+
+## شبکه‌های اجتماعی
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourInstagram)
+
+---
+
+## تماس با من
+
+📧 Email: your.email@example.com  
+🌐 Website: https://yourwebsite.com
+
