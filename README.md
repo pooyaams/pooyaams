@@ -1,34 +1,34 @@
-# سلام! من پویا هستم 👋
+# Hi, I'm Pouya! 👋
 
-من یک توسعه‌دهنده فرانت‌اند با تجربه در HTML, CSS, TailwindCSS, JavaScript و React هستم.  
-همچنین با PHP، MySQL و MongoDB آشنایی اولیه دارم و در مسیر تبدیل شدن به فول‌استک دولوپر هستم.
+I'm a Front-end Developer skilled in HTML, CSS, TailwindCSS, JavaScript, and React.  
+I also have basic knowledge of PHP, MySQL, and MongoDB, and I'm on my way to becoming a Full-Stack Developer.
 
 ---
 
-## مهارت‌ها
+## Skills
 
 - **Frontend:** HTML, CSS, TailwindCSS, JavaScript, React, Bootstrap  
-- **Backend (آشنایی اولیه):** PHP, MySQL, MongoDB, REST APIs  
-- **ابزارها:** Git, VS Code, Postman
+- **Backend (basic knowledge):** PHP, MySQL, MongoDB, REST APIs  
+- **Tools:** Git, VS Code, Postman
 
 ---
 
-## پروژه‌های برجسته
+## Featured Projects
 
-- [پروژه اول](https://github.com/PouyaAms/project1) - توضیح کوتاه درباره پروژه  
-- [پروژه دوم](https://github.com/PouyaAms/project2) - توضیح کوتاه درباره پروژه
-
----
-
-## در حال یادگیری
-
-- تقویت مهارت‌های بک‌اند با PHP و Node.js  
-- یادگیری معماری RESTful API  
-- بهبود مهارت‌های React
+- [Project One](https://github.com/PouyaAms/project1) - Brief description of the project  
+- [Project Two](https://github.com/PouyaAms/project2) - Brief description of the project
 
 ---
 
-## شبکه‌های اجتماعی
+## Currently Learning
+
+- Enhancing backend skills with PHP and Node.js  
+- Mastering RESTful API architecture  
+- Improving React expertise
+
+---
+
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)  
@@ -36,8 +36,7 @@
 
 ---
 
-## تماس با من
+## Contact Me
 
 📧 Email: your.email@example.com  
 🌐 Website: https://yourwebsite.com
-
