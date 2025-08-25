@@ -16,20 +16,26 @@ const data = {
 
 ---
 
-## Languages
+# skils
 
+### Languages: 
 <p align="left">
-  <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img alt="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img alt="Bootstrap" src="https://img.icons8.com/color/48/bootstrap.png" width="40" height="40"/>
-  <img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="40" height="40"/>
-  <img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/html5-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/css3-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/javascript-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/php-original.svg" width="36">
+</p>
+
+
+### Technologies:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/react-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/tailwindcss-original.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/bootstrap-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/mongodb-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/npm-original-wordmark.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/mysql-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/pooyaams/pooyaams/aead0d3a1c3bbd45859edad5d52a520c409789dc/getpostman-icon.svg" width="36">
 </p>
 
 ---
