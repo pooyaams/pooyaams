@@ -50,7 +50,7 @@ const data = {
 
 ## Github status
 
-<img src="https://github-readme-stats.vercel.app/api?username=pooyaams&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=pooyaams&show_icons=true&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyaams&theme=dark" />
 
 ---
