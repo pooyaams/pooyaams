@@ -1,10 +1,22 @@
-## Hey, I'm Pooya! 👋
+# Hey, I'm Pooya Amirsadeghi 👋
 
-Front-end Developer | HTML, CSS, TailwindCSS, bootstrap, JavaScript, and React.  
+```javascript
+const data = {
+  name: 'pooya',
+  dataOfBirth: 'July 11, 2005',
+  location: {
+    city: 'Sari',
+    country: 'Iran'
+  },
+  expertise: 'Front-end Developer'و
+  myGoal: 'Full-stack Developer'
+}
+
+```
 
 ---
 
-## Skills
+## Languages
 
 <p align="left">
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
