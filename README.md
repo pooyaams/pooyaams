@@ -48,6 +48,12 @@ const data = {
 
 ---
 
+<a href="">
+  <img src="https://img.shields.io/badge/pooya__ams-blue?logo=linkedin&logoColor=white">
+</a>
+
+---
+
 ## 📞 Contact Me
 
 📧 Email: pooyaamirsadeghi.1384@gmail.com  
