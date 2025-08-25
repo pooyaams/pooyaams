@@ -8,7 +8,7 @@ const data = {
     city: 'Sari',
     country: 'Iran'
   },
-  univercity: 'Azad uni',
+  education: 'Bachelor of Computer Engineering',
   expertise: 'Front-end Developer | React.js',
   myGoal: 'Full-stack Developer'
 }
