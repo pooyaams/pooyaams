@@ -48,6 +48,15 @@ const data = {
 
 ---
 
+## Github status
+
+<img src="https://github-readme-stats.vercel.app/api?username=pooyaams&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooyaams&theme=dark" />
+
+---
+
+## 📱 Social
+
 <a href="https://www.instagram.com/pooya__ams">
   <img width="180" src="https://img.shields.io/badge/Instagram-pooya__ams-red?logo=instagram&logoColor=red">
 </a>
