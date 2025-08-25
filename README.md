@@ -9,7 +9,7 @@ const data = {
     country: 'Iran'
   },
   univercity: 'Azad uni',
-  expertise: 'Front-end Developer',
+  expertise: 'Front-end Developer | React.js',
   myGoal: 'Full-stack Developer'
 }
 
